@@ -1,13 +1,13 @@
 # 📊 Telecom Customer Churn Analysis
 
-## 📖 Overview
+## Overview
 This project analyzes customer data from a telecom company to understand **why customers leave (churn)** and identify the key services driving this behavior.  
 
 The analysis combines **data cleaning, exploratory data analysis (EDA), and visualization** to reveal patterns in churn and provide insights for retention strategies.  
 
 ---
 
-## 📂 Dataset
+## Dataset
 - Source: Telecom customer dataset  
 - Format: CSV  
 - Key Features:
@@ -18,7 +18,7 @@ The analysis combines **data cleaning, exploratory data analysis (EDA), and visu
 
 ---
 
-## 🔍 Analysis Workflow
+## Analysis Workflow
 1. **Data Preprocessing**
    - Removed duplicates and missing values
    - Standardized categorical features
@@ -34,7 +34,7 @@ The analysis combines **data cleaning, exploratory data analysis (EDA), and visu
 
 ---
 
-## 📊 Key Insights (Report Summary)
+## Key Insights (Report Summary)
 - **Phone Service:** Customers with phone service churned more than those without.  
 - **Internet Service:**  
   - **Fiber optic** users show the **highest churn rates**, while DSL users are relatively stable.  
@@ -46,7 +46,7 @@ The analysis combines **data cleaning, exploratory data analysis (EDA), and visu
 
 ---
 
-## 📈 Final Visualization
+## Final Visualization
 The chart below summarizes churn across multiple telecom services:  
 
 ![Final Visualization](# 📊 Telecom Customer Churn Analysis
@@ -58,7 +58,7 @@ The analysis combines **data cleaning, exploratory data analysis (EDA), and visu
 
 ---
 
-## 📂 Dataset
+## Dataset
 - Source: Telecom customer dataset  
 - Format: CSV  
 - Key Features:
@@ -85,7 +85,7 @@ The analysis combines **data cleaning, exploratory data analysis (EDA), and visu
 
 ---
 
-## 📊 Key Insights (Report Summary)
+## Key Insights (Report Summary)
 - **Phone Service:** Customers with phone service churned more than those without.  
 - **Internet Service:**  
   - **Fiber optic** users show the **highest churn rates**, while DSL users are relatively stable.  
@@ -97,13 +97,13 @@ The analysis combines **data cleaning, exploratory data analysis (EDA), and visu
 
 ---
 
-## 📈 Final Visualization
+## Final Visualization
 The chart below summarizes churn across multiple telecom services:  
 
 
 ---
 
-## ⚙️ How to Run
+## How to Run
 1. Clone the repository:
    ```bash
    git clone https://github.com/your-username/telecom-churn-analysis.git
