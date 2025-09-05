@@ -111,9 +111,3 @@ The chart below summarizes churn across multiple telecom services:
 )  
 
 ---
-
-## ⚙️ How to Run
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/your-username/telecom-churn-analysis.git
-   cd telecom-churn-analysis
